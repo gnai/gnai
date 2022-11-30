@@ -10,7 +10,7 @@
 ![George's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gnai&layout=compact&langs_count=8&hide_border=true)
 <br />
 
-## MoRe aBoUt mE <img src="https://media.giphy.com/media/209EMjxpj6m81UsCTQ/giphy.gif" width="50"> 
+## About Me <img src="https://media.giphy.com/media/209EMjxpj6m81UsCTQ/giphy.gif" width="50"> 
 <p>
 
 🌱 I’m a Machine Learngin Engineer with a Masters degree in Sound and Music Computing from MTG. </br>
