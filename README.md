@@ -9,19 +9,19 @@
 
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> MoRe aBoUt mE 
+### MoRe aBoUt mE <img src="https://media.giphy.com/media/209EMjxpj6m81UsCTQ/giphy.gif" width="50"> 
 
 ```javascript
 const george = {
   pronouns: "he" | "him",
   code: [Python, SQL, GO, Lua, C++, Bash],
   tools: [Git, ML, DL, NLP, Docker, AWS, GCP],
-  libraries: [Librosa, Essentia,Sklearn, Tensorflow, Pytorch, Pandas, Music21]
+  libraries: [Librosa, Essentia,Sklearn, Tensorflow, Pytorch, Pandas, Music21],
   audio_softwares: [Ableton, Logic, Reaper, Kontakt, Max, Pd]  
 }
 ```
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love collaborating with different people :)</em>
+</em>Let's Collaborate :)<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>
 
 ---
