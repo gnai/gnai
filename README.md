@@ -4,13 +4,9 @@
 </em></p>
 
 
-[![GitHub George](https://img.shields.io/github/followers/george?label=follow&style=social)](https://github.com/gnai)
-
-
-
 ## MoRe aBoUt mE <img src="https://media.giphy.com/media/209EMjxpj6m81UsCTQ/giphy.gif" width="50"> 
 <p>
-  
+
 ```javascript
 const george = {
   pronouns: "he" | "him",
