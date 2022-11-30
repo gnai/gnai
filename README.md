@@ -6,7 +6,7 @@
 ## About Me <img src="https://media.giphy.com/media/209EMjxpj6m81UsCTQ/giphy.gif" width="50"> 
 <p>
 
-🌱 I’m a Machine Learngin Engineer with a Masters degree in Sound and Music Computing from MTG. </br>
+🌱 I’m a Machine Learning Engineer with a Masters degree in Sound and Music Computing from MTG. </br>
 ```javascript
 
  👨‍💻 
