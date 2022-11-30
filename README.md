@@ -10,6 +10,7 @@
 
 ## MoRe aBoUt mE <img src="https://media.giphy.com/media/209EMjxpj6m81UsCTQ/giphy.gif" width="50"> 
 <p>
+  
 ```javascript
 const george = {
   pronouns: "he" | "him",
@@ -29,4 +30,11 @@ const george = {
   <a href="https://soundcloud.com/lineorcircle"><img src="https://www.freepnglogos.com/uploads/soundcloud-logo-png/black-soundcloud-logo-transparent-png--8.png" width="20" alt="soundcloud"/></a>
 
 [![GitHub George](https://img.shields.io/github/followers/george?label=follow&style=social)](https://github.com/gnai)
+
+
+</p>
+
+![George](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+<br>
+</p>
 ---
