@@ -8,7 +8,7 @@
 
 
 ### MoRe aBoUt mE <img src="https://media.giphy.com/media/209EMjxpj6m81UsCTQ/giphy.gif" width="50"> 
-
+<p>
 ```javascript
 const george = {
   pronouns: "he" | "him",
@@ -23,10 +23,10 @@ const george = {
 
 ## Find me on
 <p>
-  <a href="mailto:george.naimeh@soundcloud.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/george-naimeh/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://www.instagram.com/lineorcircle"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-  <a href="https://soundcloud.com/lineorcircle"><img src="https://www.freepnglogos.com/uploads/soundcloud-logo-png/black-soundcloud-logo-transparent-png--8.png" alt="soundcloud"/></a>
+  <a href="mailto:george.naimeh@soundcloud.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" width="40" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/george-naimeh/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" width="40" alt="linkedin"/></a>
+  <a href="https://www.instagram.com/lineorcircle"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" width="40" alt="instagram"/></a>
+  <a href="https://soundcloud.com/lineorcircle"><img src="https://www.freepnglogos.com/uploads/soundcloud-logo-png/black-soundcloud-logo-transparent-png--8.png" width="40" alt="soundcloud"/></a>
 
 </em>Let's Collaborate :)<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>
 
