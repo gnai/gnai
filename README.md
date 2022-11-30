@@ -3,13 +3,6 @@
 <p><em>Machine Learning Engineer at <a href="http://soundcloud.com/">SoundCloud</a> <img src="https://www.freepnglogos.com/uploads/soundcloud-logo-png/soundcloud-logo-soundcloud-icon-logo-png-transparent-svg-vector-bie-supply-13.png" width="30">
 </em></p>
 
-
-<p>
-
-![George's github stats](https://github-readme-stats.vercel.app/api?username=gnai&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![George's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gnai&layout=compact&langs_count=8&hide_border=true)
-<br />
-
 ## About Me <img src="https://media.giphy.com/media/209EMjxpj6m81UsCTQ/giphy.gif" width="50"> 
 <p>
 
@@ -25,6 +18,12 @@
   audio_softwares: [Ableton, Logic, Reaper, Kontakt, Max, Pd]  
 }
 ```
+
+<p>
+
+![George's github stats](https://github-readme-stats.vercel.app/api?username=gnai&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![George's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gnai&layout=compact&langs_count=8&hide_border=true)
+<br />
 
 
 ## Find me on
