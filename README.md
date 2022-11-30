@@ -19,11 +19,15 @@
 }
 ```
 
-<p>
 
-![George's github stats](https://github-readme-stats.vercel.app/api?username=gnai&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![George's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gnai&layout=compact&langs_count=8&hide_border=true)
-<br />
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/gnai">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gnai&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gnai&layout=compact&langs_count=10"/>
+</a>
+</p>
 
 
 ## Find me on
