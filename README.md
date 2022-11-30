@@ -23,11 +23,10 @@ const george = {
 
 ## Find me on
 <p>
-  <a href="mailto:george.naimeh@soundcloud.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" width="40" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/george-naimeh/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" width="40" alt="linkedin"/></a>
-  <a href="https://www.instagram.com/lineorcircle"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" width="40" alt="instagram"/></a>
-  <a href="https://soundcloud.com/lineorcircle"><img src="https://www.freepnglogos.com/uploads/soundcloud-logo-png/black-soundcloud-logo-transparent-png--8.png" width="40" alt="soundcloud"/></a>
-
-</em>Let's Collaborate :)<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>
-
+  <a href="mailto:george.naimeh@soundcloud.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" width="20" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/george-naimeh/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" width="20" alt="linkedin"/></a>
+  <a href="https://www.instagram.com/lineorcircle"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" width="20" alt="instagram"/></a>
+  <a href="https://soundcloud.com/lineorcircle"><img src="https://www.freepnglogos.com/uploads/soundcloud-logo-png/black-soundcloud-logo-transparent-png--8.png" width="20" alt="soundcloud"/></a>
+  
+[![GitHub George](https://img.shields.io/github/followers/george?label=follow&style=social)](https://github.com/gnai)
 ---
