@@ -1,6 +1,6 @@
 <h2> Hello World! I'm George!</h2>
 <img align='right' src="https://media.giphy.com/media/ahVlmHJzTMxygUxUou/giphy.gif" width="230">
-<p><em>Machine Learning Engineer at <a href="http://soundcloud.com/">SoundCloud</a> <img src="https://cdn-icons-png.flaticon.com/512/725/725345.png" width="30">
+<p><em>Machine Learning Engineer at <a href="http://soundcloud.com/">SoundCloud</a> <img src="https://cdn-icons-png.flaticon.com/512/3665/3665245.png" width="30">
 </em></p>
 
 ## About Me <img src="https://media.giphy.com/media/209EMjxpj6m81UsCTQ/giphy.gif" width="50"> 
