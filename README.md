@@ -36,7 +36,7 @@
   <a href="https://twitter.com/gnai29"><img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></i></a>
   <a href="https://www.linkedin.com/in/george-naimeh/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30" alt="linkedin"/></i></a>
   <a href="https://www.instagram.com/lineorcircle"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30" alt="instagram"/></i></a>
-  <a href="https://soundcloud.com/lineorcircle"><img src="https://www.freepnglogos.com/uploads/soundcloud-logo-png/black-soundcloud-logo-transparent-png--8.png" width="30" alt="soundcloud"/></a>
+  <a href="https://soundcloud.com/lineorcircle"><img src="[https://www.freepnglogos.com/uploads/soundcloud-logo-png/black-soundcloud-logo-transparent-png--8.png](https://cdn-icons-png.flaticon.com/512/725/725284.png)" width="30" alt="soundcloud"/></a>
 
 [![GitHub George](https://img.shields.io/github/followers/george?label=follow&style=social)](https://github.com/gnai)
 
