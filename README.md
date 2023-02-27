@@ -1,4 +1,4 @@
-<h2> Hello World! I'm George!</h2>
+<h2> Hello World! Makefiles, Not Wars!</h2>
 <img align='right' src="https://media.giphy.com/media/ahVlmHJzTMxygUxUou/giphy.gif" width="230">
 <p><em>Machine Learning Engineer at <a href="http://soundcloud.com/">SoundCloud</a> <img src="https://cdn-icons-png.flaticon.com/512/145/145809.png" width="20">
 </em></p>
