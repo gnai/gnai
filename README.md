@@ -12,8 +12,8 @@
  👨‍💻 
   const george = {
   pronouns: "he" | "him",
-  code: [Python, SQL, GO, Lua, C++, Bash, Scala],
-  tools: [Git, ML, DL, NLP, Docker, AWS, GCP],
+  code: [Python, SQL, GO, Lua, C++, Bash, Terraform],
+  tools: [Git, ML, DL, NLP, Docker, AWS, GCP, CI/CD],
   libraries: [Librosa, Essentia,Sklearn, Tensorflow, Pytorch, Pandas, Music21],
   audio_softwares: [Ableton, Logic, Reaper, Kontakt, Max, Pd]  
 }
