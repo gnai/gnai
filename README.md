@@ -3,7 +3,7 @@
 <p><em>Machine Learning Engineer at <a href="http://soundcloud.com/">SoundCloud</a> <img src="https://cdn-icons-png.flaticon.com/512/145/145809.png" width="20">
 </em></p>
 
-## About Me <img src="https://media.giphy.com/media/209EMjxpj6m81UsCTQ/giphy.gif" width="50"> 
+## About Me <img src="https://media.giphy.com/media/209EMjxpj6m81UsCTQ/giphy.gif" width="30"> 
 <p>
 
 🌱 Hello World! I’m a Machine Learning Engineer with a Masters degree in Sound and Music Computing from MTG-UPF. </br>
