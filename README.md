@@ -43,7 +43,7 @@
 
 </p>
 
-![George]([https://github.com/BEPb/BEPb/blob/main/assets/Bottom_down.svg)https://github.com/BEPb/BEPb/blob/main/assets/Bottom_down.svg])
+![George]([https://github.com/BEPb/BEPb/blob/main/assets/Bottom_down.svg])
 <br>
 </p>
 ---
