@@ -43,7 +43,7 @@
 
 </p>
 
-![George]([https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_down.svg)https://github.com/BEPb/BEPb/blob/main/assets/Bottom_down.svg)
+![George]([https://github.com/BEPb/BEPb/blob/main/assets/Bottom_down.svg)https://github.com/BEPb/BEPb/blob/main/assets/Bottom_down.svg])
 <br>
 </p>
 ---
