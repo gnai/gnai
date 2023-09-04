@@ -12,7 +12,7 @@
  👨‍💻 
   const george = {
   pronouns: "he" | "him",
-  code: [Python, SQL, GO, Lua, C++, Bash, Terraform],
+  code: [Python, SQL, GO, Lua, Scala, C++, Bash, Terraform],
   tools: [Git, ML, DL, NLP, Docker, AWS, GCP, CI/CD],
   libraries: [Librosa, Essentia, Sklearn, Tensorflow, Pytorch, Pandas, Music21, Scikit, Gensim],
   audio_softwares: [Ableton, Logic, Reaper, Kontakt, Max, Pd]  
