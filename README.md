@@ -25,7 +25,7 @@
 <p align="center">
 <a href="https://github.com/gnai">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gnai&show_icons=true&include_all_commits=true&count_private=true&theme=darcula"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gnai&layout=compact&langs_count=10&theme=darcula&hide=jupyter%20notebook,Max,Processing&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gnai&layout=compact&langs_count=10&theme=transparent&hide=jupyter%20notebook,Max,Processing&show_icons=true"/>
 </a>
 </p>
 
