@@ -6,7 +6,7 @@
 ## About Me <img src="https://media.giphy.com/media/209EMjxpj6m81UsCTQ/giphy.gif" width="30"> 
 <p>
 
-🌱 Hello World! I’m a Machine Learning Engineer with a Masters degree in Sound and Music Computing from MTG-UPF. </br>
+🌱 Hello World! I’m a ML Product Engineer with a Masters degree in Sound and Music Computing from MTG-UPF. </br>
 ```javascript
 
  👨‍💻 
